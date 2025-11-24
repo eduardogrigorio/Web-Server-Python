@@ -1,5 +1,7 @@
+ # _📁 Servidor Web Python para Gerenciamento de Arquivos_
+
 <div align="center">
-  <h1>📁 Servidor Web Python para Gerenciamento de Arquivos</h1>
+ 
   <p>Servidor local com interface web para navegar diretórios e reproduzir arquivos de mídia</p>
   
   <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python" alt="Python">
@@ -65,3 +67,5 @@ Servidor web local desenvolvido em Python para:
 ```bash
 git clone https://github.com/seu-usuario/servidor-web-python.git
 cd servidor-web-python
+```
+Griga
